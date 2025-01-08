@@ -1,3 +1,5 @@
+Implementation Approach 
+
 1.	Synthetic Data Generation:
 •	Generate synthetic data for one day in minute-level intervals.
 •	Price data (bid, ask, mid prices) is generated using geometric Brownian motion for simulation, with a random spread is added to mid prices to calculate bid and ask prices.
